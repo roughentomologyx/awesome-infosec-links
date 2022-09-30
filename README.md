@@ -47,6 +47,9 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
 - https://www.youtube.com/watch?v=z2Whj_nL-x8 Claude Shannon - Father of the Information Age
 
+# Hardening
+- https://www.stigviewer.com/
+- https://github.com/dev-sec/ansible-collection-hardening
 
 # Great Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
@@ -60,6 +63,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/c/TheCISOPerspective
 - https://www.youtube.com/c/3blue1brown
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ
+- https://www.youtube.com/c/thethoughtemporium
 
 
 # Recommended Books
