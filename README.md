@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where i gather awesome links that cross my path during my InfoSec journey. I try to only include the useful stuff and cureate the list.
+A place where we gather awesome links that cross my path during my InfoSec journey. We try to only include the useful stuff and curate the list.
 
 # Aggregators
 Here you find some other link aggregators.
