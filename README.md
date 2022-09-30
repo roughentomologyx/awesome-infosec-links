@@ -45,16 +45,21 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
+- https://www.youtube.com/watch?v=z2Whj_nL-x8 Claude Shannon - Father of the Information Age
+
 
 # Great Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
+- https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
+- 
 
 # Great Youtube Channels
 - https://www.youtube.com/c/TheCISOPerspective
 - https://www.youtube.com/c/3blue1brown
+- https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ
 
 
 # Recommended Books
