@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where we gather awesome links that cross my path during my InfoSec journey. We try to only include the useful stuff and curate the list.
+A place where we gather awesome links that cross our path during my InfoSec journey. We try to only include the useful stuff and curate the list.
 
 # Aggregators
 Here you find some other link aggregators.
@@ -57,7 +57,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
-- 
+- https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 
 # Great Youtube Channels
 - https://www.youtube.com/c/TheCISOPerspective
