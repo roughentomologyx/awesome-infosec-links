@@ -1,72 +1,84 @@
 # awesome-infosec-links
-A place where we gather awesome links that cross our path during my InfoSec journey. We try to only include the useful stuff and curate the list.
+A place where we gather awesome links that cross our path during our InfoSec journey. We try to only include the useful/awesome stuff and curate the list. It still will never be ordered in any way indicating what we think is the most educational/awesome. If you like what you see feel free to contribute
 
-# Aggregators
-Here you find some other link aggregators.
+## Link Aggregators
 
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
 - 
 
-# Magazines
+## Magazines
 - http://phrack.org/issues
 - https://www.alchemistowl.org/pocorgtfo/
+- https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 
-# Darknet
-- dark.fail
-- breached.to
+## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
 
-# Smart Contracts & Blockchain
+## Smart Contracts & Blockchain
 - https://cmichel.io/
 - https://noxx.substack.com/
 - https://newsletter.blockthreat.io/
 
-# Hardware
+## Hardware
 - https://hackaday.io/
 - 
 
-# German Content
+## German Content
+- https://www.youtube.com/user/SemperVideo
 - https://tarnkappe.info/
 - https://www.szenebox.org/
 
-# Social
+## Social
 https://wiki.hackerspaces.org/Hackerspaces
 
-# C2 and Covert Channels
+## C2 and Covert Channels
 - https://github.com/D1rkMtr/VirusTotalC2
 - https://github.com/iagox86/dnscat2
 
+## Hardening
+- https://www.stigviewer.com/
+- https://github.com/dev-sec/ansible-collection-hardening
 
-# Documentaries
+
+# Edutainment
+
+## Documentaries
 These are not bound to InfoSec and are mostly historical. Getting good Computer Science documentaries is hard enough by itself.
 - https://hackcur.io/trashing-the-phone-company-with-suzy-thunder/
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
 - https://www.youtube.com/watch?v=z2Whj_nL-x8 Claude Shannon - Father of the Information Age
+- https://www.youtube.com/watch?v=Dddbe9OuJLU&list=PL7nj3G6Jpv2G6Gp6NvN1kUtQuW8QshBWE BBS The Documentary
 
-# Hardening
-- https://www.stigviewer.com/
-- https://github.com/dev-sec/ansible-collection-hardening
 
-# Great Talks
+## Great Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
+- https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
+- https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 
-# Great Youtube Channels
+
+## Great Youtube Channels
 - https://www.youtube.com/c/TheCISOPerspective
 - https://www.youtube.com/c/3blue1brown
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ
 - https://www.youtube.com/c/thethoughtemporium
 
 
-# Recommended Books
-Beware that i post affiliate links here. Buy from them if you want to support me. Otherwise i'm sure you can find them elsewhere.
-- https://www.amazon.com/exec/obidos/ASIN/0471122971/acmorg-20
-- 
+## Recommended Books (authors choice: roughentomologyx):
+### fiction
+Mostly early cypher- & cyberpunk stuff i like
+- https://en.wikipedia.org/wiki/Snow_Crash
+- https://en.wikipedia.org/wiki/The_Shockwave_Rider
+- https://en.wikipedia.org/wiki/Neuromancer
+### nonfiction
+
+### kind of autobiographic
+- Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
