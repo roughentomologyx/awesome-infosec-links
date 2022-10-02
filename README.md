@@ -67,7 +67,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
-
+- https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
 
 ## Great Youtube Channels
 I also highly recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
@@ -75,6 +75,8 @@ I also highly recommend searching through the other channels&authors provided in
 - https://www.youtube.com/c/3blue1brown
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ
 - https://www.youtube.com/c/thethoughtemporium
+- https://www.youtube.com/c/nesoacademy/videos
+- https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
 
 
 ## Recommended Books (authors choice: roughentomologyx):
@@ -91,5 +93,6 @@ Mostly early cypherpunk & cyberpunk stuff i like
 ### kind of autobiographic
 - Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
 - https://en.wikipedia.org/wiki/The_Hacker_Crackdown
+- https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
 
 ## Recommended Books (authors choice: rhetenor):
