@@ -69,6 +69,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
+- https://www.youtube.com/watch?v=zTthtjdf-ts Social Engineering and Physical Pentesting 
 
 ## Great Youtube Channels
 I also highly recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
@@ -87,7 +88,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://en.wikipedia.org/wiki/The_Shockwave_Rider
 - https://en.wikipedia.org/wiki/Neuromancer
 - https://en.wikipedia.org/wiki/Daemon_(novel_series)
-- 
+- https://en.wikipedia.org/wiki/New_Rose_Hotel
 
 ### nonfiction
 
