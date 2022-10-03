@@ -28,7 +28,8 @@ A place where we gather awesome links that cross our path during our InfoSec jou
 - https://www.szenebox.org/
 
 ## Social
-https://wiki.hackerspaces.org/Hackerspaces
+- https://wiki.hackerspaces.org/Hackerspaces
+- https://2600.com/meetings
 
 ## C2 and Covert Channels
 - https://github.com/D1rkMtr/VirusTotalC2
@@ -73,7 +74,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 I also highly recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective
 - https://www.youtube.com/c/3blue1brown
-- https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ
+- https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
 - https://www.youtube.com/c/thethoughtemporium
 - https://www.youtube.com/c/nesoacademy/videos
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
