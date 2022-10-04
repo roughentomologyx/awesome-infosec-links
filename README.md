@@ -18,6 +18,9 @@ A place where we gather awesome links that cross our path during our InfoSec jou
 - https://cmichel.io/
 - https://noxx.substack.com/
 - https://newsletter.blockthreat.io/
+- https://samczsun.com/
+- https://github.com/blockthreat/blocksec-ctfs
+- https://github.com/nascentxyz/simple-security-toolkit
 
 ## Hardware
 - https://hackaday.io/
@@ -65,8 +68,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
-- https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
-- https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
+
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
@@ -80,6 +82,7 @@ I also recommend searching through the other channels&authors provided in this d
 - https://www.youtube.com/c/thethoughtemporium
 - https://www.youtube.com/c/nesoacademy/videos
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
+
 
 
 
@@ -100,3 +103,10 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
 
 ## Recommended Books (authors choice: rhetenor):
+
+# Other
+Don't fit 100% anywhere else here but we still want to include them.
+- https://www.youtube.com/c/VisualPKM
+- https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
+- https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
+- https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
