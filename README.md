@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where we gather awesome links that cross our path during our InfoSec journey. We try to only include the useful/awesome stuff and curate the list. It still will never be ordered in any way indicating what we think is the most educational/awesome. If you like what you see feel free to contribute.
+A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute.
 
 ## Link Aggregators
 
@@ -12,7 +12,7 @@ A place where we gather awesome links that cross our path during our InfoSec jou
 - https://github.com/opsdisk/pagodo
 - https://builtwith.com/
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
-
+- https://www.offensiveosint.io/
 
 ## Smart Contracts & Blockchain
 - https://cmichel.io/
@@ -25,12 +25,6 @@ A place where we gather awesome links that cross our path during our InfoSec jou
 ## Hardware
 - https://hackaday.io/
 
-## German Content
-- https://www.youtube.com/user/SemperVideo
-- https://tarnkappe.info/
-- https://www.szenebox.org/
-- https://www.youtube.com/c/NLogSpace/videos
-
 ## Social
 - https://wiki.hackerspaces.org/Hackerspaces
 - https://2600.com/meetings
@@ -42,6 +36,8 @@ A place where we gather awesome links that cross our path during our InfoSec jou
 ## Hardening
 - https://www.stigviewer.com/
 - https://github.com/dev-sec/ansible-collection-hardening
+
+## Privacy
 
 
 # Edutainment
@@ -68,7 +64,6 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
-
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
@@ -77,14 +72,10 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 ## Great Youtube Channels
 I also recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
-- https://www.youtube.com/c/3blue1brown/videos
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
 - https://www.youtube.com/c/thethoughtemporium
 - https://www.youtube.com/c/nesoacademy/videos
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
-
-
-
 
 ## Recommended Books (authors choice: roughentomologyx):
 ### fiction
@@ -105,8 +96,15 @@ Mostly early cypherpunk & cyberpunk stuff i like
 ## Recommended Books (authors choice: rhetenor):
 
 # Other
-Don't fit 100% anywhere else here but we still want to include them.
+Don't fit 100% anywhere else here but I still want to include them.
 - https://www.youtube.com/c/VisualPKM
 - https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
+- https://www.youtube.com/c/3blue1brown/videos
+
+## German Content
+- https://www.youtube.com/user/SemperVideo
+- https://tarnkappe.info/
+- https://www.szenebox.org/
+- https://www.youtube.com/c/NLogSpace/videos
