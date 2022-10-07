@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute.
+A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute. Beware that whenever you upload information to a website that data has (probably) lost its confidentiality.
 
 ## Link Aggregators
 
@@ -68,6 +68,7 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
 - https://www.youtube.com/watch?v=zTthtjdf-ts Social Engineering and Physical Pentesting 
+- https://www.youtube.com/watch?v=LS5OQHUJaJE Babak Javadi - Basics of Hacking Physical Access Control Systems - DEF CON 27 Wireless Village
 
 ## Great Youtube Channels
 I also recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
@@ -102,6 +103,8 @@ Don't fit 100% anywhere else here but I still want to include them.
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
+- https://tinywow.com/
+- 
 
 ## German Content
 - https://www.youtube.com/user/SemperVideo
