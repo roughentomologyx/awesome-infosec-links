@@ -21,9 +21,13 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 - https://samczsun.com/
 - https://github.com/blockthreat/blocksec-ctfs
 - https://github.com/nascentxyz/simple-security-toolkit
+- https://github.com/shazow/whatsabi
 
 ## Hardware
 - https://hackaday.io/
+
+## Compliance
+- https://groups.google.com/g/iso27001security/about
 
 ## Social
 - https://wiki.hackerspaces.org/Hackerspaces
@@ -69,6 +73,8 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
 - https://www.youtube.com/watch?v=zTthtjdf-ts Social Engineering and Physical Pentesting 
 - https://www.youtube.com/watch?v=LS5OQHUJaJE Babak Javadi - Basics of Hacking Physical Access Control Systems - DEF CON 27 Wireless Village
+- https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
+- https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
 
 ## Great Youtube Channels
 I also recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
@@ -77,6 +83,7 @@ I also recommend searching through the other channels&authors provided in this d
 - https://www.youtube.com/c/thethoughtemporium
 - https://www.youtube.com/c/nesoacademy/videos
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
+- https://www.youtube.com/c/AllHackingCons/videos
 
 ## Recommended Books (authors choice: roughentomologyx):
 ### fiction
@@ -104,7 +111,7 @@ Don't fit 100% anywhere else here but I still want to include them.
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
 - https://tinywow.com/
-- 
+- https://www.telnetbbsguide.com/
 
 ## German Content
 - https://www.youtube.com/user/SemperVideo
