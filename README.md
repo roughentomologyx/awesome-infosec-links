@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute. Beware that whenever you upload information to a website that data has (probably) lost its confidentiality.
+A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute via issues and pull requests. 
 
 ## Link Aggregators
 
@@ -8,11 +8,15 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/JohnHammond/ctf-katana
 
-## Reconnaissance:
+
+## OSINT:
 - https://github.com/opsdisk/pagodo
 - https://builtwith.com/
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
 - https://www.offensiveosint.io/
+
+## Reconnaissance:
+- https://attack.mitre.org/tactics/TA0043/
 
 ## Smart Contracts & Blockchain
 - https://cmichel.io/
@@ -42,26 +46,49 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 - https://github.com/dev-sec/ansible-collection-hardening
 
 ## Privacy
+- https://github.com/htrgouvea/nipe
+
+## Windows
+- https://github.com/t3l3machus/hoaxshell
 
 
-# Edutainment
-
-## Documentaries
-These are not bound to InfoSec and are mostly historical. Getting good Computer Science documentaries is hard enough by itself.
+# Documentaries & Historical
+Not restricted to InfoSec but computer science and "hacker" culture general. 
 - https://hackcur.io/trashing-the-phone-company-with-suzy-thunder/
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
 - https://www.youtube.com/watch?v=z2Whj_nL-x8 Claude Shannon - Father of the Information Age
 - https://www.youtube.com/watch?v=Dddbe9OuJLU&list=PL7nj3G6Jpv2G6Gp6NvN1kUtQuW8QshBWE BBS (Bulletin Boards) The Documentary
+- https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
+- https://www.telnetbbsguide.com/
+- https://www.youtube.com/watch?v=5MexnBunH_g Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]
 
-## Magazines
+## Darknet
+- https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
+
+## Books:
+### fiction
+Mostly early cypherpunk & cyberpunk stuff i like
+- https://en.wikipedia.org/wiki/Snow_Crash
+- https://en.wikipedia.org/wiki/The_Shockwave_Rider
+- https://en.wikipedia.org/wiki/Neuromancer
+- https://en.wikipedia.org/wiki/Daemon_(novel_series)
+- https://en.wikipedia.org/wiki/New_Rose_Hotel
+
+
+### kind of autobiographic
+- Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
+- https://en.wikipedia.org/wiki/The_Hacker_Crackdown
+- https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
+
+
+### Magazines
 - http://phrack.org/issues
 - https://www.alchemistowl.org/pocorgtfo/
 - https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 
-## Darknet
-- https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
+
 
 ## Great Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
@@ -77,43 +104,29 @@ These are not bound to InfoSec and are mostly historical. Getting good Computer 
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
 
 ## Great Youtube Channels
-I also recommend searching through the other channels&authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
+I also recommend searching through the other channels & authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
-- https://www.youtube.com/c/thethoughtemporium
-- https://www.youtube.com/c/nesoacademy/videos
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
 - https://www.youtube.com/c/AllHackingCons/videos
 
-## Recommended Books (authors choice: roughentomologyx):
-### fiction
-Mostly early cypherpunk & cyberpunk stuff i like
-- https://en.wikipedia.org/wiki/Snow_Crash
-- https://en.wikipedia.org/wiki/The_Shockwave_Rider
-- https://en.wikipedia.org/wiki/Neuromancer
-- https://en.wikipedia.org/wiki/Daemon_(novel_series)
-- https://en.wikipedia.org/wiki/New_Rose_Hotel
 
-### nonfiction
-
-### kind of autobiographic
-- Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
-- https://en.wikipedia.org/wiki/The_Hacker_Crackdown
-- https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
-
-## Recommended Books (authors choice: rhetenor):
 
 # Other
-Don't fit 100% anywhere else here but I still want to include them.
+Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome.
 - https://www.youtube.com/c/VisualPKM
-- https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
+
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
-- https://tinywow.com/
-- https://www.telnetbbsguide.com/
+- https://tinywow.com/ (pls don't ever upload confidential data to any site)
 
-## German Content
+- https://www.linusakesson.net/programming/tty/
+- https://opensource.guide/how-to-contribute/
+- https://www.youtube.com/c/thethoughtemporium
+- https://www.youtube.com/c/nesoacademy/videos
+
+# German Content
 - https://www.youtube.com/user/SemperVideo
 - https://tarnkappe.info/
 - https://www.szenebox.org/
