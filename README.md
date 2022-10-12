@@ -1,21 +1,19 @@
 # awesome-infosec-links
-A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like what you see feel free to contribute via issues and pull requests. 
+A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
 
 ## Link Aggregators
 
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
-- https://github.com/JohnHammond/ctf-katana
 
-
-## OSINT:
+## OSINT
 - https://github.com/opsdisk/pagodo
 - https://builtwith.com/
-- https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
+- https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk 10 Minute (or less!) OSINT Tips by The OSINT Curious Project
 - https://www.offensiveosint.io/
 
-## Reconnaissance:
+## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
 
 ## Smart Contracts & Blockchain
@@ -26,6 +24,11 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 - https://github.com/blockthreat/blocksec-ctfs
 - https://github.com/nascentxyz/simple-security-toolkit
 - https://github.com/shazow/whatsabi
+- https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos Smart Contract Programmer
+
+## CTF
+- https://github.com/JohnHammond/ctf-katana
+- https://www.wechall.net/
 
 ## Hardware
 - https://hackaday.io/
@@ -35,7 +38,8 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 
 ## Social
 - https://wiki.hackerspaces.org/Hackerspaces
-- https://2600.com/meetings
+- https://10times.com/top100/technology
+- https://www.demoparty.net/
 
 ## C2 and Covert Channels
 - https://github.com/D1rkMtr/VirusTotalC2
@@ -63,12 +67,13 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
 - https://www.telnetbbsguide.com/
 - https://www.youtube.com/watch?v=5MexnBunH_g Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]
+- https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ/videos Internet History Podcast
 
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
 
-## Books:
-### fiction
+## Books
+### Fiction
 Mostly early cypherpunk & cyberpunk stuff i like
 - https://en.wikipedia.org/wiki/Snow_Crash
 - https://en.wikipedia.org/wiki/The_Shockwave_Rider
@@ -77,7 +82,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://en.wikipedia.org/wiki/New_Rose_Hotel
 
 
-### kind of autobiographic
+### Kind of autobiographic
 - Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
 - https://en.wikipedia.org/wiki/The_Hacker_Crackdown
 - https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
@@ -99,6 +104,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
 - https://www.youtube.com/watch?v=zTthtjdf-ts Social Engineering and Physical Pentesting 
+- https://www.youtube.com/watch?v=O07uRT-5BDM 36C3 - High-assurance crypto software by DJ Bernstein and 
 - https://www.youtube.com/watch?v=LS5OQHUJaJE Babak Javadi - Basics of Hacking Physical Access Control Systems - DEF CON 27 Wireless Village
 - https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
@@ -107,15 +113,13 @@ Mostly early cypherpunk & cyberpunk stuff i like
 I also recommend searching through the other channels & authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
-- https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
 - https://www.youtube.com/c/AllHackingCons/videos
 
 
 
-# Other
-Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome.
+# Other & Pretty Offtopic
+Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
 - https://www.youtube.com/c/VisualPKM
-
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
