@@ -55,6 +55,10 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
 
+## Magazines
+- http://phrack.org/issues
+- https://www.alchemistowl.org/pocorgtfo/
+- https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 
 # Documentaries & Historical
 Not restricted to InfoSec but computer science and "hacker" culture general. 
@@ -68,6 +72,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.telnetbbsguide.com/
 - https://www.youtube.com/watch?v=5MexnBunH_g Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ/videos Internet History Podcast
+- https://www.youtube.com/c/TechTimeTraveller/videos
 
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
@@ -88,10 +93,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
 
 
-### Magazines
-- http://phrack.org/issues
-- https://www.alchemistowl.org/pocorgtfo/
-- https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
+
 
 
 
@@ -123,7 +125,7 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
-- https://tinywow.com/ (pls don't ever upload confidential data to any site)
+
 
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
@@ -134,4 +136,3 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.youtube.com/user/SemperVideo
 - https://tarnkappe.info/
 - https://www.szenebox.org/
-- https://www.youtube.com/c/NLogSpace/videos
