@@ -86,18 +86,13 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://en.wikipedia.org/wiki/Daemon_(novel_series)
 - https://en.wikipedia.org/wiki/New_Rose_Hotel
 
-
 ### Kind of autobiographic
 - Kevin Mitnick and William L. Simon, Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, 2011, Hardback ISBN 978-0-316-03770-9
 - https://en.wikipedia.org/wiki/The_Hacker_Crackdown
 - https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
 
-
-
-
-
-
-## Great Talks
+# Edutainment
+## Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
@@ -111,13 +106,10 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
 
-## Great Youtube Channels
+## Youtube Channels
 I also recommend searching through the other channels & authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
-- https://www.youtube.com/c/AllHackingCons/videos
-
-
 
 # Other & Pretty Offtopic
 Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
@@ -125,8 +117,6 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
-
-
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
