@@ -62,7 +62,6 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 
 # Documentaries & Historical
 Not restricted to InfoSec but computer science and "hacker" culture general. 
-- https://hackcur.io/trashing-the-phone-company-with-suzy-thunder/
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
@@ -73,7 +72,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=5MexnBunH_g Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]
 - https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ/videos Internet History Podcast
 - https://www.youtube.com/c/TechTimeTraveller/videos
-
+- https://www.youtube.com/watch?v=yJDv-zdhzMY The Mother of All Demos, presented by Douglas Engelbart (1968)
+- textfiles.com
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
 
