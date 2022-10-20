@@ -34,6 +34,10 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 ## Hardware
 - https://hackaday.io/
 
+## Routers
+- https://modemly.com/m1/pulse
+- https://github.com/threat9/routersploit
+
 ## Compliance
 - https://groups.google.com/g/iso27001security/about
 
@@ -110,7 +114,6 @@ Mostly early cypherpunk & cyberpunk stuff i like
 ## Youtube Channels
 I also recommend searching through the other channels & authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
-- https://www.youtube.com/channel/UC10MbwdpwQh8hTfNirlu7iQ 
 
 # Other & Pretty Offtopic
 Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
