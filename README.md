@@ -15,6 +15,7 @@ A place where I gather awesome links that cross my path during my InfoSec journe
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
+- https://github.com/nahberry/awesome-recon-tools
 
 ## Smart Contracts & Blockchain
 - https://cmichel.io/
