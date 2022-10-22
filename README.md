@@ -57,6 +57,8 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## Privacy
 - https://github.com/htrgouvea/nipe
+- https://github.com/dys2p
+- https://www.youtube.com/watch?v=0QT4YJn7oVI DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
