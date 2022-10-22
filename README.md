@@ -1,11 +1,12 @@
 # awesome-infosec-links
-A place where I gather awesome links that cross my path during my InfoSec journey. I try to only include the useful/awesome stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
+A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the usefulstuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
 
 ## Link Aggregators
 
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
+- https://github.com/pe3zx/my-infosec-awesome
 
 ## OSINT
 - https://github.com/opsdisk/pagodo
