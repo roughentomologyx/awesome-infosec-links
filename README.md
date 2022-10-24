@@ -13,6 +13,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://builtwith.com/
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk 10 Minute (or less!) OSINT Tips by The OSINT Curious Project
 - https://www.offensiveosint.io/
+- https://metaosint.github.io/
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
@@ -56,6 +57,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/dev-sec/ansible-collection-hardening
 
 ## Privacy
+- https://letsdecentralize.org/
 - https://github.com/htrgouvea/nipe
 - https://github.com/dys2p
 - https://www.youtube.com/watch?v=0QT4YJn7oVI DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets
