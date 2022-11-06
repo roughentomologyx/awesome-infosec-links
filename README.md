@@ -1,5 +1,5 @@
 # awesome-infosec-links
-A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the usefulstuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
+A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the useful stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
 
 ## Link Aggregators
 
@@ -10,7 +10,6 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## OSINT
 - https://github.com/opsdisk/pagodo
-- https://builtwith.com/
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk 10 Minute (or less!) OSINT Tips by The OSINT Curious Project
 - https://www.offensiveosint.io/
 - https://metaosint.github.io/
@@ -116,23 +115,13 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=LS5OQHUJaJE Babak Javadi - Basics of Hacking Physical Access Control Systems - DEF CON 27 Wireless Village
 - https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
-
-## Youtube Channels
-I also recommend searching through the other channels & authors provided in this document. If they are elsewhere in this doc means they will not get included here. 
 - https://www.youtube.com/c/TheCISOPerspective/videos
 
-# Other & Pretty Offtopic
+# Other & Offtopic
 Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
 - https://www.youtube.com/c/VisualPKM
-- https://www.youtube.com/watch?v=T3dGLqZrjIQ LoRa crash course by Thomas Telkamp
 - https://www.youtube.com/watch?v=F_Riqjdh2oM Quantum Computing for Computer Scientists
 - https://www.youtube.com/c/3blue1brown/videos
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
-- https://www.youtube.com/c/nesoacademy/videos
-
-# German Content
-- https://www.youtube.com/user/SemperVideo
-- https://tarnkappe.info/
-- https://www.szenebox.org/
