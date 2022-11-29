@@ -41,6 +41,7 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## Compliance
 - https://groups.google.com/g/iso27001security/about
+- https://choosealicense.com/licenses/
 
 ## Social
 - https://wiki.hackerspaces.org/Hackerspaces
@@ -57,7 +58,8 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## Privacy
 - https://letsdecentralize.org/
-- https://github.com/htrgouvea/nipe
+- https://github.com/htrgouvea/nipe (whonix is better bcs of failsafe -> if nipe shutdowns you get possible side effects)
+- https://www.whonix.org/wiki/Download
 - https://github.com/dys2p
 - https://www.youtube.com/watch?v=0QT4YJn7oVI DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets
 
@@ -68,6 +70,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - http://phrack.org/issues
 - https://www.alchemistowl.org/pocorgtfo/
 - https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
+- https://unredactedmagazine.com/
 
 # Documentaries & Historical
 Not restricted to InfoSec but computer science and "hacker" culture general. 
