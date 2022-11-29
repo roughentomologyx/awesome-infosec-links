@@ -13,6 +13,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk 10 Minute (or less!) OSINT Tips by The OSINT Curious Project
 - https://www.offensiveosint.io/
 - https://metaosint.github.io/
+- https://validator.w3.org/checklink
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
