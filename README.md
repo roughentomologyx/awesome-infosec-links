@@ -68,6 +68,12 @@ A place where I gather my personal awesome links that cross my path during my In
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
 
+## Prompt Engineering and AI Dorking
+- https://github.com/f/awesome-chatgpt-prompts
+
+## DNS
+- https://0xpatrik.com/
+
 ## Magazines
 - http://phrack.org/issues
 - https://www.alchemistowl.org/pocorgtfo/
