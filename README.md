@@ -73,6 +73,7 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## DNS
 - https://0xpatrik.com/
+- https://github.com/SoylentBob/awesome-dns
 
 ## Magazines
 - http://phrack.org/issues
