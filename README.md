@@ -15,6 +15,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://www.offensiveosint.io/
 - https://metaosint.github.io/
 - https://validator.w3.org/checklink
+- https://github.com/jivoi/awesome-osint
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
