@@ -66,12 +66,14 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://www.whonix.org/wiki/Download
 - https://github.com/dys2p
 - https://www.youtube.com/watch?v=0QT4YJn7oVI DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets
+- https://www.deviceinfo.me/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
 
 ## Prompt Engineering and AI Dorking
 - https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/jcubic/chat-gpt (untested)
 
 ## DNS
 - https://0xpatrik.com/
