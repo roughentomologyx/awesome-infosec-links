@@ -74,6 +74,7 @@ A place where I gather my personal awesome links that cross my path during my In
 ## Prompt Engineering and AI Dorking
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/jcubic/chat-gpt (untested)
+- https://www.learngpt.com/
 
 ## DNS
 - https://0xpatrik.com/
@@ -100,9 +101,10 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=yJDv-zdhzMY The Mother of All Demos, presented by Douglas Engelbart (1968)
 - textfiles.com
 - https://www.youtube.com/watch?v=P5j7chCzzPA L0pht Heavy Industries Video Press Kit (1994-1999)
+- https://darknetdiaries.com/episode/
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
-- https://darknetdiaries.com/episode/
+
 ## Books
 ### Fiction
 Mostly early cypherpunk & cyberpunk stuff i like
