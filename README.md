@@ -17,6 +17,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://validator.w3.org/checklink
 - https://github.com/jivoi/awesome-osint
 - https://annas-archive.org/
+- https://github.com/ARPSyndicate/awesome-intelligence
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
