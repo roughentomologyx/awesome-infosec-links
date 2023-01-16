@@ -7,6 +7,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/pe3zx/my-infosec-awesome
+- https://github.com/carlospolop/hacktricks
 
 ## OSINT
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
