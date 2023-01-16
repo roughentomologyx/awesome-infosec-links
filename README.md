@@ -1,5 +1,6 @@
 # awesome-infosec-links
 A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the useful stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
+Special thanks to rhetenor.
 
 ## Link Aggregators
 
@@ -37,6 +38,7 @@ A place where I gather my personal awesome links that cross my path during my In
 ## CTF
 - https://github.com/JohnHammond/ctf-katana
 - https://www.wechall.net/
+- https://github.com/cliffe/SecGen
 
 ## Hardware
 - https://hackaday.io/
