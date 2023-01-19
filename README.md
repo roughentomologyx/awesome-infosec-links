@@ -108,6 +108,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://darknetdiaries.com/episode/
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
+- https://www.rfc-editor.org/rfc/rfc1.txt
 
 ## Books
 ### Fiction
