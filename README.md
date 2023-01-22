@@ -79,7 +79,8 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/jcubic/chat-gpt (untested)
 - https://www.learngpt.com/
-
+## Physical
+- https://github.com/MaximeBeasse/KeyDecoder
 ## DNS
 - https://0xpatrik.com/
 - https://github.com/SoylentBob/awesome-dns
