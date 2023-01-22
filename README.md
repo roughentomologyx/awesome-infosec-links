@@ -24,6 +24,7 @@ A place where I gather my personal awesome links that cross my path during my In
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
 - https://github.com/nahberry/awesome-recon-tools
+- https://github.com/codingo/VHostScan
 
 ## Smart Contracts & Blockchain
 - https://cmichel.io/
@@ -43,6 +44,9 @@ A place where I gather my personal awesome links that cross my path during my In
 ## Hardware
 - https://hackaday.io/
 
+
+## Wireless
+- https://tbhaxor.com/
 ## Routers
 - https://modemly.com/m1/pulse
 - https://github.com/threat9/routersploit
@@ -149,3 +153,4 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
+- http://tranco-list.eu/
