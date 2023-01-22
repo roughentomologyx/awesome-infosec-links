@@ -154,3 +154,4 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
 - http://tranco-list.eu/
+- https://github.com/dejanlevaja/email2pwd
