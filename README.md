@@ -61,9 +61,14 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://10times.com/top100/technology
 - https://www.demoparty.net/
 
+## Blue Team
+- https://canarytokens.org/generate
+- https://github.com/zdhenard42/SOC-Multitool
+
 ## C2 and Covert Channels
 - https://github.com/D1rkMtr/VirusTotalC2
 - https://github.com/iagox86/dnscat2
+- https://github.com/projectdiscovery/interactsh
 
 ## Hardening
 - https://www.stigviewer.com/
