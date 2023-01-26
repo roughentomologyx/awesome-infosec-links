@@ -21,6 +21,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://annas-archive.org/
 - https://github.com/ARPSyndicate/awesome-intelligence
 - https://www.nerdydata.com/
+- breached.to
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
@@ -117,9 +118,10 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - textfiles.com
 - https://www.youtube.com/watch?v=P5j7chCzzPA L0pht Heavy Industries Video Press Kit (1994-1999)
 - https://darknetdiaries.com/episode/
+- https://www.rfc-editor.org/rfc/rfc1.txt
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
-- https://www.rfc-editor.org/rfc/rfc1.txt
+
 
 ## Books
 ### Fiction
