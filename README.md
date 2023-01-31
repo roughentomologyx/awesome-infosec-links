@@ -94,6 +94,8 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/jcubic/chat-gpt (untested)
 - https://www.learngpt.com/
+- https://www.emergentmind.com/
+- https://showgpt.co/
 
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
