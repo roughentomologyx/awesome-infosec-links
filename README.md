@@ -20,7 +20,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/jivoi/awesome-osint
 - https://annas-archive.org/
 - https://github.com/ARPSyndicate/awesome-intelligence
-- https://www.nerdydata.com/
+- https://erasurebay.org/
 - breached.to
 
 ## Reconnaissance
@@ -45,10 +45,12 @@ A place where I gather my personal awesome links that cross my path during my In
 
 ## Hardware
 - https://hackaday.io/
+- https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking
 
 
 ## Wireless
 - https://tbhaxor.com/
+
 ## Routers
 - https://modemly.com/m1/pulse
 - https://github.com/threat9/routersploit
@@ -66,10 +68,12 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://canarytokens.org/generate
 - https://github.com/zdhenard42/SOC-Multitool
 
-## C2 and Covert Channels
-- https://github.com/D1rkMtr/VirusTotalC2
-- https://github.com/iagox86/dnscat2
+## Red Team
 - https://github.com/projectdiscovery/interactsh
+- https://github.com/iagox86/dnscat2
+- https://github.com/D1rkMtr/VirusTotalC2
+- https://github.com/jackmichalak/phishim
+- https://github.com/dejanlevaja/email2pwd
 
 ## Hardening
 - https://www.stigviewer.com/
@@ -90,8 +94,10 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/jcubic/chat-gpt (untested)
 - https://www.learngpt.com/
+
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
+
 ## DNS
 - https://0xpatrik.com/
 - https://github.com/SoylentBob/awesome-dns
@@ -119,6 +125,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=P5j7chCzzPA L0pht Heavy Industries Video Press Kit (1994-1999)
 - https://darknetdiaries.com/episode/
 - https://www.rfc-editor.org/rfc/rfc1.txt
+
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
 
@@ -147,7 +154,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
 - https://www.youtube.com/watch?v=zTthtjdf-ts Social Engineering and Physical Pentesting 
-- https://www.youtube.com/watch?v=O07uRT-5BDM 36C3 - High-assurance crypto software by DJ Bernstein and 
+- https://www.youtube.com/watch?v=O07uRT-5BDM 36C3 - High-assurance crypto software by DJ Bernstein
 - https://www.youtube.com/watch?v=LS5OQHUJaJE Babak Javadi - Basics of Hacking Physical Access Control Systems - DEF CON 27 Wireless Village
 - https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
@@ -161,5 +168,5 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
-- http://tranco-list.eu/
-- https://github.com/dejanlevaja/email2pwd
+
+
