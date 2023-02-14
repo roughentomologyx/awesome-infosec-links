@@ -9,6 +9,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/pe3zx/my-infosec-awesome
 - https://github.com/carlospolop/hacktricks
+- https://github.com/enaqx/awesome-pentest
 
 ## OSINT
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
@@ -18,9 +19,8 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://metaosint.github.io/
 - https://validator.w3.org/checklink
 - https://github.com/jivoi/awesome-osint
-- https://annas-archive.org/
 - https://github.com/ARPSyndicate/awesome-intelligence
-- breached.to
+
 
 ## Reconnaissance
 - https://attack.mitre.org/tactics/TA0043/
