@@ -126,6 +126,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=P5j7chCzzPA L0pht Heavy Industries Video Press Kit (1994-1999)
 - https://darknetdiaries.com/episode/
 - https://www.rfc-editor.org/rfc/rfc1.txt
+- https://www.pcjs.org/
+
 
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
