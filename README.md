@@ -2,7 +2,7 @@
 A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the useful stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
 
 
-## Link Aggregators
+## Awesomes
 
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/trimstray/the-book-of-secret-knowledge
@@ -10,6 +10,8 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/pe3zx/my-infosec-awesome
 - https://github.com/carlospolop/hacktricks
 - https://github.com/enaqx/awesome-pentest
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+
 
 ## OSINT
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
