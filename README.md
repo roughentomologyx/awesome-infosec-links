@@ -11,6 +11,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://github.com/carlospolop/hacktricks
 - https://github.com/enaqx/awesome-pentest
 - https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://awesomerank.github.io/
 
 
 ## OSINT
