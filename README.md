@@ -108,13 +108,22 @@ An Awesome is a hyperlink aggregator
 - https://0xpatrik.com/
 - https://github.com/SoylentBob/awesome-dns
 
+
+
+
+
+
+## Darknet
+- https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
+
+# Edutainment
 ## Magazines
 - http://phrack.org/issues
 - https://www.alchemistowl.org/pocorgtfo/
 - https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 - https://unredactedmagazine.com/
 
-# Documentaries & Historical
+## Documentaries & Historical
 Not restricted to InfoSec but computer science and "hacker" culture general. 
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
@@ -133,11 +142,6 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.rfc-editor.org/rfc/rfc1.txt
 - https://www.pcjs.org/
 
-
-## Darknet
-- https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
-
-
 ## Books
 ### Fiction
 Mostly early cypherpunk & cyberpunk stuff i like
@@ -152,7 +156,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://en.wikipedia.org/wiki/The_Hacker_Crackdown
 - https://books.google.de/books/about/Cult_of_the_Dead_Cow.html?id=DyHMxQEACAAJ&redir_esc=y
 
-# Edutainment
+
 ## Talks
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
