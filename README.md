@@ -3,7 +3,7 @@ A place where I gather my personal awesome links that cross my path during my In
 
 
 ## Awesomes
-
+An Awesome is a hyperlink aggregator
 - https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
@@ -166,6 +166,12 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=eft8PElmQZM NolaCon 2019 D 07 Breaking Into Your Building A Hackers Guide to Unauthorized Physical Access Brent
 - https://www.youtube.com/watch?v=IBAbzS5JlEc t101 Hackers saving the world from the zombie apocalypse Johnny Long
 - https://www.youtube.com/c/TheCISOPerspective/videos
+## Podcasts
+- https://therecord.media/podcast/
+- https://darknetdiaries.com/
+- https://inteltechniques.com/podcast.html
+- https://isc.sans.edu/podcast.html
+
 
 # Other & Offtopic
 Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
