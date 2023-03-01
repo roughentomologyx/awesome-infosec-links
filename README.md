@@ -98,6 +98,7 @@ A place where I gather my personal awesome links that cross my path during my In
 - https://www.learngpt.com/
 - https://www.emergentmind.com/
 - https://showgpt.co/
+- https://www.jailbreakchat.com/
 
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
