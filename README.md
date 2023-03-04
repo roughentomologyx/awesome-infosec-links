@@ -88,6 +88,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/dys2p
 - https://www.youtube.com/watch?v=0QT4YJn7oVI DEFCON 20: Owning Bad Guys {And Mafia} with Javascript Botnets
 - https://www.deviceinfo.me/
+- https://www.ccc.de/censorship/dns-howto/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
