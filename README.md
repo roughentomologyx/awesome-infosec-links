@@ -69,6 +69,7 @@ An Awesome is a hyperlink aggregator
 ## Blue Team
 - https://canarytokens.org/generate
 - https://github.com/zdhenard42/SOC-Multitool
+- https://uncoder.io/
 
 ## Red Team
 - https://github.com/projectdiscovery/interactsh
