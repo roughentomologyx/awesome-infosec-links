@@ -110,7 +110,8 @@ An Awesome is a hyperlink aggregator
 - https://0xpatrik.com/
 - https://github.com/SoylentBob/awesome-dns
 
-
+## Browsers
+- https://mattfrisbie.substack.com/p/spy-chrome-extension
 
 
 
