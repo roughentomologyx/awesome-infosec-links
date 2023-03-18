@@ -78,6 +78,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/jackmichalak/phishim
 - https://github.com/dejanlevaja/email2pwd
 - https://github.com/outflanknl/C2-Tool-Collection
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 ## Hardening
 - https://www.stigviewer.com/
