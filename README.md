@@ -12,6 +12,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/enaqx/awesome-pentest
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://awesomerank.github.io/
+- https://github.com/trickest/cve
 
 
 ## OSINT
@@ -104,6 +105,9 @@ An Awesome is a hyperlink aggregator
 - https://www.emergentmind.com/
 - https://showgpt.co/
 - https://www.jailbreakchat.com/
+- https://gpd.43z.one/
+- https://gpa.43z.one/
+
 
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
