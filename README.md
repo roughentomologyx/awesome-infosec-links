@@ -170,7 +170,6 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
-- https://www.youtube.com/watch?v=rg018yqdqSQ What Does my SOC Do?: A Framework for Defining an InfoSec Ops Strategy - SANS DFIR Summit 2016
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
 - https://www.youtube.com/watch?v=NG9Cg_vBKOg Defcon 21 - Forensic Fails - Shift + Delete Won't Help You Here
 - https://www.youtube.com/watch?v=4fYZpRBuh-s DEF CON 27 - Confessions of an Nespresso Money Mule Free Stuff and Triangulation Fraud
