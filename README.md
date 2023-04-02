@@ -195,5 +195,5 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.linusakesson.net/programming/tty/
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
-
+- https://cloudhiker.net/explore
 
