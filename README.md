@@ -75,11 +75,11 @@ An Awesome is a hyperlink aggregator
 ## Red Team
 - https://github.com/projectdiscovery/interactsh
 - https://github.com/iagox86/dnscat2
-- https://github.com/D1rkMtr/VirusTotalC2
 - https://github.com/jackmichalak/phishim
 - https://github.com/dejanlevaja/email2pwd
 - https://github.com/outflanknl/C2-Tool-Collection
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- https://github.com/t3l3machus/Villain
 
 ## Hardening
 - https://www.stigviewer.com/
