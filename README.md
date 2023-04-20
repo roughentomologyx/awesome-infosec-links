@@ -95,6 +95,7 @@ An Awesome is a hyperlink aggregator
 - https://www.deviceinfo.me/
 - https://www.ccc.de/censorship/dns-howto/
 - https://farside.link/
+- https://privacytests.org/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
