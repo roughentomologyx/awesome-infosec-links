@@ -58,6 +58,7 @@ An Awesome is a hyperlink aggregator
 ## Routers
 - https://modemly.com/m1/pulse
 - https://github.com/threat9/routersploit
+- https://routersecurity.org/index.php
 
 ## Compliance
 - https://groups.google.com/g/iso27001security/about
@@ -72,6 +73,7 @@ An Awesome is a hyperlink aggregator
 - https://canarytokens.org/generate
 - https://github.com/zdhenard42/SOC-Multitool
 - https://uncoder.io/
+- https://www.hardenize.com/
 
 ## Red Team
 - https://github.com/projectdiscovery/interactsh
@@ -97,6 +99,7 @@ An Awesome is a hyperlink aggregator
 - https://farside.link/
 - https://privacytests.org/
 - https://www.grc.com/shieldsup
+- https://www.dnsleaktest.com/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
@@ -115,6 +118,7 @@ An Awesome is a hyperlink aggregator
 
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
+- https://www.blackhillsinfosec.com/tales-from-the-pick-intro-to-physical-security-tools/
 
 ## DNS
 - https://0xpatrik.com/
@@ -199,4 +203,5 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://opensource.guide/how-to-contribute/
 - https://www.youtube.com/c/thethoughtemporium
 - https://cloudhiker.net/explore
+- http://cht.sh/
 
