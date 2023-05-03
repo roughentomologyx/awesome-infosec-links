@@ -30,6 +30,7 @@ An Awesome is a hyperlink aggregator
 - https://attack.mitre.org/tactics/TA0043/
 - https://github.com/nahberry/awesome-recon-tools
 - https://github.com/codingo/VHostScan
+- https://github.com/urbanadventurer/WhatWeb
 
 ## Smart Contracts & Blockchain
 - https://cmichel.io/
