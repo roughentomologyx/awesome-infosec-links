@@ -149,6 +149,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=z2Whj_nL-x8 Claude Shannon - Father of the Information Age
 - https://www.youtube.com/watch?v=Dddbe9OuJLU&list=PL7nj3G6Jpv2G6Gp6NvN1kUtQuW8QshBWE BBS (Bulletin Boards) The Documentary
 - https://www.youtube.com/watch?v=n0OwGSX2IiQ Back to the BBS
+- https://www.youtube.com/watch?v=FufYSx2_6Bg Hackers The History Of Hacking - Phone Phreaking, Cap.Crunch, Wozniak, Mitnick
 - https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
 - https://www.telnetbbsguide.com/
 - https://www.youtube.com/watch?v=5MexnBunH_g Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]
