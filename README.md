@@ -84,6 +84,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/outflanknl/C2-Tool-Collection
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 - https://github.com/t3l3machus/Villain
+- https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
 
 ## Hardening
 - https://www.stigviewer.com/
