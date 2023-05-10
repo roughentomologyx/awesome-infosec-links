@@ -81,6 +81,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/projectdiscovery/interactsh
 - https://github.com/iagox86/dnscat2
 - https://github.com/jackmichalak/phishim
+- https://github.com/fin3ss3g0d/evilgophish
 - https://github.com/dejanlevaja/email2pwd
 - https://github.com/outflanknl/C2-Tool-Collection
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
@@ -110,7 +111,6 @@ An Awesome is a hyperlink aggregator
 
 ## Prompt Engineering and AI Dorking
 - https://github.com/f/awesome-chatgpt-prompts
-- https://github.com/jcubic/chat-gpt (untested)
 - https://www.learngpt.com/
 - https://www.emergentmind.com/
 - https://showgpt.co/
@@ -129,9 +129,6 @@ An Awesome is a hyperlink aggregator
 
 ## Browsers
 - https://mattfrisbie.substack.com/p/spy-chrome-extension
-
-
-
 
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
@@ -180,7 +177,7 @@ Mostly early cypherpunk & cyberpunk stuff i like
 
 
 ## Talks
-- https://www.youtube.com/watch?v=_A2f04nIJTc Leveraging Organizational Change to Build a Strong Security Culture
+
 - https://www.youtube.com/watch?v=HlUe0TUHOIc DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering
 - https://www.youtube.com/watch?v=XH0F9r0siTI DEF CON 26 - Christopher Domas - The Ring 0 Facade Awakening the Processors Inner Demons
 - https://www.youtube.com/watch?v=F6l2Bmh7Dq4 OSINT social media: Are you crazy to share so much information online?
@@ -198,6 +195,8 @@ Mostly early cypherpunk & cyberpunk stuff i like
 - https://inteltechniques.com/podcast.html
 - https://isc.sans.edu/podcast.html
 
+# Career
+- https://pauljerimy.com/security-certification-roadmap/
 
 # Other & Offtopic
 Don't fit anywhere else here, very offtopic, but I still want to include them as i personally find them very awesome/usefull.
