@@ -75,6 +75,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/zdhenard42/SOC-Multitool
 - https://uncoder.io/
 - https://www.hardenize.com/
+- https://github.com/adhdproject/spidertrap/blob/master/spidertrap.py
 
 ## Red Team
 - https://github.com/projectdiscovery/interactsh
