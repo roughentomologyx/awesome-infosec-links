@@ -27,7 +27,6 @@ An Awesome is a hyperlink aggregator
 
 
 ## Reconnaissance
-- https://attack.mitre.org/tactics/TA0043/
 - https://github.com/nahberry/awesome-recon-tools
 - https://github.com/codingo/VHostScan
 - https://github.com/urbanadventurer/WhatWeb
