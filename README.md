@@ -207,4 +207,5 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://www.youtube.com/c/thethoughtemporium
 - https://cloudhiker.net/explore
 - http://cht.sh/
+- https://github.com/sindresorhus/awesome
 
