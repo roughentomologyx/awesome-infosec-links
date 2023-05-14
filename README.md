@@ -41,6 +41,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/shazow/whatsabi
 - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos Smart Contract Programmer
 - https://github.com/SunWeb3Sec/DeFiHackLabs
+- https://solodit.xyz/
 
 ## CTF
 - https://github.com/JohnHammond/ctf-katana
