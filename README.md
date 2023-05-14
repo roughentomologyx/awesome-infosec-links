@@ -139,6 +139,7 @@ An Awesome is a hyperlink aggregator
 - https://www.alchemistowl.org/pocorgtfo/
 - https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 - https://unredactedmagazine.com/
+- https://www.blackhillsinfosec.com/prompt-zine/
 
 ## Documentaries & Historical
 Not restricted to InfoSec but computer science and "hacker" culture general. 
