@@ -105,6 +105,7 @@ An Awesome is a hyperlink aggregator
 - https://privacytests.org/
 - https://www.grc.com/shieldsup
 - https://www.dnsleaktest.com/
+- https://shufflecake.net/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
