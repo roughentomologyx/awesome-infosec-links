@@ -116,10 +116,10 @@ An Awesome is a hyperlink aggregator
 - https://github.com/f/awesome-chatgpt-prompts
 - https://www.learngpt.com/
 - https://www.emergentmind.com/
-- https://showgpt.co/
 - https://www.jailbreakchat.com/
 - https://gpd.43z.one/
 - https://gpa.43z.one/
+- https://github.com/kyrolabs/awesome-langchain
 
 
 ## Physical
