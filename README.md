@@ -113,6 +113,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/t3l3machus/hoaxshell
 - https://www.youtube.com/watch?v=vW8eAqZyWeo
 - https://github.com/I-Am-Jakoby/PowerShell-for-Hackers
+- https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 
 ## Prompt Engineering and AI Dorking
 - https://github.com/f/awesome-chatgpt-prompts
