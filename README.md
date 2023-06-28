@@ -24,6 +24,7 @@ An Awesome is a hyperlink aggregator
 - https://validator.w3.org/checklink
 - https://github.com/jivoi/awesome-osint
 - https://github.com/ARPSyndicate/awesome-intelligence
+- https://gmail-osint.activetk.jp/
 
 
 ## Reconnaissance
