@@ -109,6 +109,7 @@ An Awesome is a hyperlink aggregator
 - https://www.grc.com/shieldsup
 - https://www.dnsleaktest.com/
 - https://shufflecake.net/
+- https://privacytests.org/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
@@ -125,10 +126,14 @@ An Awesome is a hyperlink aggregator
 - https://gpa.43z.one/
 - https://github.com/kyrolabs/awesome-langchain
 
-
+## Mobile
+- https://github.com/morpheuslord/QuadraInspect
+- https://www.sisik.eu/apk-tool
+- 
 ## Physical
 - https://github.com/MaximeBeasse/KeyDecoder
 - https://www.blackhillsinfosec.com/tales-from-the-pick-intro-to-physical-security-tools/
+- https://hackaday.com/2023/07/16/brute-forcing-a-mobiles-pin-over-usb-with-a-3-board/
 
 ## DNS
 - https://0xpatrik.com/
@@ -139,6 +144,7 @@ An Awesome is a hyperlink aggregator
 
 ## Darknet
 - https://www.youtube.com/watch?v=QTIzSz73yYU&list=PL1H1sBF1VAKU8aP5FC-makTTBknb1EWYC
+- https://falconfeeds.io/blog/post/exploring-the-top-dark-web-marketplaces-unveiling-the-shadows-993359
 
 # Edutainment
 ## Magazines
