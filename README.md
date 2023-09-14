@@ -110,6 +110,7 @@ An Awesome is a hyperlink aggregator
 - https://www.dnsleaktest.com/
 - https://shufflecake.net/
 - https://privacytests.org/
+- https://veilid.com/
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
@@ -134,6 +135,8 @@ An Awesome is a hyperlink aggregator
 - https://github.com/MaximeBeasse/KeyDecoder
 - https://www.blackhillsinfosec.com/tales-from-the-pick-intro-to-physical-security-tools/
 - https://hackaday.com/2023/07/16/brute-forcing-a-mobiles-pin-over-usb-with-a-3-board/
+- https://www.cdse.edu/Training/Toolkits/Physical-Security-Toolkit/
+- https://github.com/sh0ckSec/RFID-Gooseneck
 
 ## DNS
 - https://0xpatrik.com/
