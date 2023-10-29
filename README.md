@@ -92,6 +92,7 @@ An Awesome is a hyperlink aggregator
 - https://www.revshells.com/
 - https://offsec.tools/
 - https://github.com/ihebski/DefaultCreds-cheat-sheet
+- https://github.com/Mehedi-Babu/tools_red_team
 
 ## Hardening
 - https://www.stigviewer.com/
