@@ -114,6 +114,9 @@ An Awesome is a hyperlink aggregator
 - https://privacytests.org/
 - https://veilid.com/
 
+## Coding
+- https://chat.openai.com/g/g-n7Rs0IK86-grimoire
+
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
 - https://www.youtube.com/watch?v=vW8eAqZyWeo
@@ -128,6 +131,7 @@ An Awesome is a hyperlink aggregator
 - https://gpd.43z.one/
 - https://gpa.43z.one/
 - https://github.com/kyrolabs/awesome-langchain
+- https://github.com/fr0gger/Awesome-GPT-Agents
 
 ## Mobile
 - https://github.com/morpheuslord/QuadraInspect
