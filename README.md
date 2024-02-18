@@ -13,6 +13,7 @@ An Awesome is a hyperlink aggregator
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://awesomerank.github.io/
 - https://github.com/trickest/cve
+- https://github.com/r1cksec/cheatsheets
 
 
 ## OSINT
