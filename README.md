@@ -166,6 +166,7 @@ An Awesome is a hyperlink aggregator
 - https://unredactedmagazine.com/
 - https://www.blackhillsinfosec.com/prompt-zine/
 - https://tmpout.sh/
+- https://pagedout.institute/
 
 ## Documentaries & Historical
 
