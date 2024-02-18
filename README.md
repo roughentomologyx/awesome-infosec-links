@@ -120,9 +120,10 @@ An Awesome is a hyperlink aggregator
 
 ## Windows
 - https://github.com/t3l3machus/hoaxshell
-- https://www.youtube.com/watch?v=vW8eAqZyWeo
+- https://www.youtube.com/watch?v=vW8eAqZyWeo Malware Hunting with Mark Russinovich and the Sysinternals Tools
 - https://github.com/I-Am-Jakoby/PowerShell-for-Hackers
 - https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
+- https://github.com/marcosValle/awesome-windows-red-team
 
 ## Prompt Engineering and AI Dorking
 - https://github.com/f/awesome-chatgpt-prompts
