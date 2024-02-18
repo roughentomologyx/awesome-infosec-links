@@ -163,6 +163,7 @@ An Awesome is a hyperlink aggregator
 - https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly
 - https://unredactedmagazine.com/
 - https://www.blackhillsinfosec.com/prompt-zine/
+- https://tmpout.sh/
 
 ## Documentaries & Historical
 
