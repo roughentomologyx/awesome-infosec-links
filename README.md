@@ -2,22 +2,23 @@
 A place where I gather my personal awesome links that cross my path during my InfoSec journey. I try to only include the useful stuff that you might not have already seen 1000 times and curate the list. It still will never be ordered in any way indicating what I think is the most educational/awesome. If you like or dislike what you see feel free to contribute via issues and pull requests. 
 
 
-## Awesomes
+## Meta-Awesomes
 An Awesome is a hyperlink aggregator
-- https://github.com/edoardottt/awesome-hacker-search-engines
+
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/onlurking/awesome-infosec
 - https://github.com/pe3zx/my-infosec-awesome
 - https://github.com/carlospolop/hacktricks
 - https://github.com/enaqx/awesome-pentest
-- https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://awesomerank.github.io/
 - https://github.com/trickest/cve
 - https://github.com/r1cksec/cheatsheets
+- https://github.com/bayandin/awesome-awesomeness
 
 
 ## OSINT
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- https://github.com/edoardottt/awesome-hacker-search-engines
 - https://github.com/opsdisk/pagodo
 - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk 10 Minute (or less!) OSINT Tips by The OSINT Curious Project
 - https://www.offensiveosint.io/
@@ -225,4 +226,5 @@ Don't fit anywhere else here, very offtopic, but I still want to include them as
 - https://cloudhiker.net/explore
 - http://cht.sh/
 - https://github.com/sindresorhus/awesome
+- https://github.com/awesome-selfhosted/awesome-selfhosted
 
